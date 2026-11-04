@@ -2,7 +2,7 @@
 
 Run official BAGEL understanding and generation; capture selected decoder-block states.
 Start with [colab.ipynb](colab.ipynb) on one **A100 80 GB**, BF16, without quantization.
-Setup keeps Colab's PyTorch/torchvision and installs FlashAttention 2.8.3.post2 separately.
+Setup keeps Colab's PyTorch/torchvision and installs Astral's prebuilt FlashAttention 2.8.3 for Python 3.13, PyTorch 2.11, and CUDA 13.0.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicerova7/bagel-space/blob/main/colab.ipynb)
 
