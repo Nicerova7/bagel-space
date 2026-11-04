@@ -3,6 +3,8 @@
 Run official BAGEL understanding and generation; capture selected decoder-block states.
 Start with [colab.ipynb](colab.ipynb) on one **A100 80 GB**, BF16, without quantization.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicerova7/bagel-space/blob/main/colab.ipynb)
+
 ```text
 bagel_space/   adapter.py, capture.py, generation.py, understanding.py
 inputs/       local images
