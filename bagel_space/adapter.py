@@ -23,6 +23,13 @@ MODEL_REVISION = "5019f57d168e5816e8f3f701b17cc816bb7cf24b"
 UPSTREAM_REVISION = "a2fa77dd8caeefc41e6607ae0ec17408d3f4ee9f"
 
 
+class BagelInferencer(InterleaveInferencer):
+    def decode_image(self, latent, image_shape):
+        """Move latents to the VAE device without changing sampler precision."""
+        latent = latent.to(device=next(self.vae_model.parameters()).device)
+        return super().decode_image(latent, image_shape)
+
+
 class BagelAdapter:
     def __init__(self):
         self.device = torch.device("cuda:0")
@@ -56,7 +63,7 @@ class BagelAdapter:
         self.tokenizer, self.token_ids, _ = add_special_tokens(self.tokenizer)
         self.vae_transform = ImageTransform(1024, 512, 16)
         self.vit_transform = ImageTransform(980, 224, 14)
-        self.inferencer = InterleaveInferencer(
+        self.inferencer = BagelInferencer(
             self.model, self.vae, self.tokenizer, self.vae_transform,
             self.vit_transform, self.token_ids,
         )
