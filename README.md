@@ -6,9 +6,10 @@ Setup keeps Colab's PyTorch/torchvision and installs Astral's prebuilt FlashAtte
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicerova7/bagel-space/blob/main/colab.ipynb)
 
-Custom steering: [notebook](colab-custom-steering.ipynb) | [Open in Colab](https://colab.research.google.com/github/Nicerova7/bagel-space/blob/experiment/custom-steering-vectors/colab-custom-steering.ipynb).
-Build mean differences in step 6; apply to prompt text, visual tokens, or both in step 11.
-Text is edited once during prefill; visual edits follow the selected denoising evaluations.
+**Custom steering - one pair:** [colab-custom-steering.ipynb](colab-custom-steering.ipynb) | [Open in Colab](https://colab.research.google.com/github/Nicerova7/bagel-space/blob/experiment/custom-steering-vectors/colab-custom-steering.ipynb).
+
+**Counting - dataset build and application:** [colab-counting.ipynb](experiments/counting/colab-counting.ipynb) | [Open in Colab](https://colab.research.google.com/github/Nicerova7/bagel-space/blob/experiment/custom-steering-vectors/experiments/counting/colab-counting.ipynb).
+Text is edited once during prefill; visual edits follow selected denoising evaluations.
 
 ```text
 bagel_space/   adapter.py, capture.py, generation.py, understanding.py

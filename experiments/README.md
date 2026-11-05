@@ -1,9 +1,10 @@
 # Experiments
 
-Run [colab-custom-steering.ipynb](../colab-custom-steering.ipynb).
+Use [the custom notebook](../colab-custom-steering.ipynb) for one pair and the reusable functions.
+Use [the counting notebook](counting/colab-counting.ipynb) for dataset builds and image steering.
 `custom_utils.py` reuses the BAGEL adapter and capture module without changing upstream code.
 
-Steps 3-6 prepare pairs, capture understanding states, and average pair differences per layer.
+Counting steps 3-6 prepare pairs, capture understanding states, and average pair differences per layer.
 Token and layer reducers accept `mean`, `average`, `sum`, `none`, or a callable.
 RepE and ITI have reserved sections only.
 
