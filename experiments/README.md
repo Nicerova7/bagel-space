@@ -6,7 +6,8 @@ Use [the counting notebook](counting/colab-counting.ipynb) for dataset builds an
 
 Counting steps 3-6 prepare pairs, capture understanding states, and average pair differences per layer.
 Token and layer reducers accept `mean`, `average`, `sum`, `none`, or a callable.
-RepE and ITI have reserved sections only.
+Step 6 offers mean difference, RepE, and ITI; execute one cell.
+RepE uses centered difference PCA with unit norm; ITI uses CPU L2 logistic regression and projection-std scaling.
 
 Application tokens, layers, and visual iterations accept `first`, `last`, `all`, integers, lists, or slices.
 Text edits run once on prompt content before caching; visual edits run on conditional VAE tokens.
