@@ -1,0 +1,252 @@
+[
+  {
+    "id": "build_001",
+    "positive": "Three apples on the table. How many apples are on the table?\nAnswer: three",
+    "negative": "One apple on the table. How many apples are on the table?\nAnswer: one"
+  },
+  {
+    "id": "build_002",
+    "positive": "Three cups on the tray. How many cups are on the tray?\nAnswer: three",
+    "negative": "One cup on the tray. How many cups are on the tray?\nAnswer: one"
+  },
+  {
+    "id": "build_003",
+    "positive": "Three books on the shelf. How many books are on the shelf?\nAnswer: three",
+    "negative": "One book on the shelf. How many books are on the shelf?\nAnswer: one"
+  },
+  {
+    "id": "build_004",
+    "positive": "Three chairs by the window. How many chairs are by the window?\nAnswer: three",
+    "negative": "One chair by the window. How many chairs are by the window?\nAnswer: one"
+  },
+  {
+    "id": "build_005",
+    "positive": "Three candles on the cake. How many candles are on the cake?\nAnswer: three",
+    "negative": "One candle on the cake. How many candles are on the cake?\nAnswer: one"
+  },
+  {
+    "id": "build_006",
+    "positive": "Three plates on the counter. How many plates are on the counter?\nAnswer: three",
+    "negative": "One plate on the counter. How many plates are on the counter?\nAnswer: one"
+  },
+  {
+    "id": "build_007",
+    "positive": "Three spoons beside the bowl. How many spoons are beside the bowl?\nAnswer: three",
+    "negative": "One spoon beside the bowl. How many spoons are beside the bowl?\nAnswer: one"
+  },
+  {
+    "id": "build_008",
+    "positive": "Three bottles on the counter. How many bottles are on the counter?\nAnswer: three",
+    "negative": "One bottle on the counter. How many bottles are on the counter?\nAnswer: one"
+  },
+  {
+    "id": "build_009",
+    "positive": "Three pillows on the sofa. How many pillows are on the sofa?\nAnswer: three",
+    "negative": "One pillow on the sofa. How many pillows are on the sofa?\nAnswer: one"
+  },
+  {
+    "id": "build_010",
+    "positive": "Three pencils on the desk. How many pencils are on the desk?\nAnswer: three",
+    "negative": "One pencil on the desk. How many pencils are on the desk?\nAnswer: one"
+  },
+  {
+    "id": "build_011",
+    "positive": "Three coins on the table. How many coins are on the table?\nAnswer: three",
+    "negative": "One coin on the table. How many coins are on the table?\nAnswer: one"
+  },
+  {
+    "id": "build_012",
+    "positive": "Three keys on the desk. How many keys are on the desk?\nAnswer: three",
+    "negative": "One key on the desk. How many keys are on the desk?\nAnswer: one"
+  },
+  {
+    "id": "build_013",
+    "positive": "Three balls on the grass. How many balls are on the grass?\nAnswer: three",
+    "negative": "One ball on the grass. How many balls are on the grass?\nAnswer: one"
+  },
+  {
+    "id": "build_014",
+    "positive": "Three flowers in the vase. How many flowers are in the vase?\nAnswer: three",
+    "negative": "One flower in the vase. How many flowers are in the vase?\nAnswer: one"
+  },
+  {
+    "id": "build_015",
+    "positive": "Three balloons above the chair. How many balloons are above the chair?\nAnswer: three",
+    "negative": "One balloon above the chair. How many balloons are above the chair?\nAnswer: one"
+  },
+  {
+    "id": "build_016",
+    "positive": "Three cats on the rug. How many cats are on the rug?\nAnswer: three",
+    "negative": "One cat on the rug. How many cats are on the rug?\nAnswer: one"
+  },
+  {
+    "id": "build_017",
+    "positive": "Three dogs on the lawn. How many dogs are on the lawn?\nAnswer: three",
+    "negative": "One dog on the lawn. How many dogs are on the lawn?\nAnswer: one"
+  },
+  {
+    "id": "build_018",
+    "positive": "Three birds on the branch. How many birds are on the branch?\nAnswer: three",
+    "negative": "One bird on the branch. How many birds are on the branch?\nAnswer: one"
+  },
+  {
+    "id": "build_019",
+    "positive": "Three ducks on the pond. How many ducks are on the pond?\nAnswer: three",
+    "negative": "One duck on the pond. How many ducks are on the pond?\nAnswer: one"
+  },
+  {
+    "id": "build_020",
+    "positive": "Three fish in the aquarium. How many fish are in the aquarium?\nAnswer: three",
+    "negative": "One fish in the aquarium. How many fish are in the aquarium?\nAnswer: one"
+  },
+  {
+    "id": "build_021",
+    "positive": "Three cars on the street. How many cars are on the street?\nAnswer: three",
+    "negative": "One car on the street. How many cars are on the street?\nAnswer: one"
+  },
+  {
+    "id": "build_022",
+    "positive": "Three bicycles by the fence. How many bicycles are by the fence?\nAnswer: three",
+    "negative": "One bicycle by the fence. How many bicycles are by the fence?\nAnswer: one"
+  },
+  {
+    "id": "build_023",
+    "positive": "Three boats on the lake. How many boats are on the lake?\nAnswer: three",
+    "negative": "One boat on the lake. How many boats are on the lake?\nAnswer: one"
+  },
+  {
+    "id": "build_024",
+    "positive": "Three circles on the page. How many circles are on the page?\nAnswer: three",
+    "negative": "One circle on the page. How many circles are on the page?\nAnswer: one"
+  },
+  {
+    "id": "build_025",
+    "positive": "Three squares on the page. How many squares are on the page?\nAnswer: three",
+    "negative": "One square on the page. How many squares are on the page?\nAnswer: one"
+  },
+  {
+    "id": "build_026",
+    "positive": "Three oranges on the plate. How many oranges are on the plate?\nAnswer: three",
+    "negative": "One orange on the plate. How many oranges are on the plate?\nAnswer: one"
+  },
+  {
+    "id": "build_027",
+    "positive": "Three bananas on the counter. How many bananas are on the counter?\nAnswer: three",
+    "negative": "One banana on the counter. How many bananas are on the counter?\nAnswer: one"
+  },
+  {
+    "id": "build_028",
+    "positive": "Three pears on the tray. How many pears are on the tray?\nAnswer: three",
+    "negative": "One pear on the tray. How many pears are on the tray?\nAnswer: one"
+  },
+  {
+    "id": "build_029",
+    "positive": "Three lemons on the table. How many lemons are on the table?\nAnswer: three",
+    "negative": "One lemon on the table. How many lemons are on the table?\nAnswer: one"
+  },
+  {
+    "id": "build_030",
+    "positive": "Three cookies on the plate. How many cookies are on the plate?\nAnswer: three",
+    "negative": "One cookie on the plate. How many cookies are on the plate?\nAnswer: one"
+  },
+  {
+    "id": "build_031",
+    "positive": "Three muffins on the tray. How many muffins are on the tray?\nAnswer: three",
+    "negative": "One muffin on the tray. How many muffins are on the tray?\nAnswer: one"
+  },
+  {
+    "id": "build_032",
+    "positive": "Three sandwiches on the plate. How many sandwiches are on the plate?\nAnswer: three",
+    "negative": "One sandwich on the plate. How many sandwiches are on the plate?\nAnswer: one"
+  },
+  {
+    "id": "build_033",
+    "positive": "Three eggs in the bowl. How many eggs are in the bowl?\nAnswer: three",
+    "negative": "One egg in the bowl. How many eggs are in the bowl?\nAnswer: one"
+  },
+  {
+    "id": "build_034",
+    "positive": "Three tomatoes on the counter. How many tomatoes are on the counter?\nAnswer: three",
+    "negative": "One tomato on the counter. How many tomatoes are on the counter?\nAnswer: one"
+  },
+  {
+    "id": "build_035",
+    "positive": "Three carrots on the table. How many carrots are on the table?\nAnswer: three",
+    "negative": "One carrot on the table. How many carrots are on the table?\nAnswer: one"
+  },
+  {
+    "id": "build_036",
+    "positive": "Three forks beside the plate. How many forks are beside the plate?\nAnswer: three",
+    "negative": "One fork beside the plate. How many forks are beside the plate?\nAnswer: one"
+  },
+  {
+    "id": "build_037",
+    "positive": "Three bowls on the counter. How many bowls are on the counter?\nAnswer: three",
+    "negative": "One bowl on the counter. How many bowls are on the counter?\nAnswer: one"
+  },
+  {
+    "id": "build_038",
+    "positive": "Three mugs on the desk. How many mugs are on the desk?\nAnswer: three",
+    "negative": "One mug on the desk. How many mugs are on the desk?\nAnswer: one"
+  },
+  {
+    "id": "build_039",
+    "positive": "Three vases on the shelf. How many vases are on the shelf?\nAnswer: three",
+    "negative": "One vase on the shelf. How many vases are on the shelf?\nAnswer: one"
+  },
+  {
+    "id": "build_040",
+    "positive": "Three lamps on the desk. How many lamps are on the desk?\nAnswer: three",
+    "negative": "One lamp on the desk. How many lamps are on the desk?\nAnswer: one"
+  },
+  {
+    "id": "build_041",
+    "positive": "Three clocks on the wall. How many clocks are on the wall?\nAnswer: three",
+    "negative": "One clock on the wall. How many clocks are on the wall?\nAnswer: one"
+  },
+  {
+    "id": "build_042",
+    "positive": "Three hats on the bench. How many hats are on the bench?\nAnswer: three",
+    "negative": "One hat on the bench. How many hats are on the bench?\nAnswer: one"
+  },
+  {
+    "id": "build_043",
+    "positive": "Three shoes on the floor. How many shoes are on the floor?\nAnswer: three",
+    "negative": "One shoe on the floor. How many shoes are on the floor?\nAnswer: one"
+  },
+  {
+    "id": "build_044",
+    "positive": "Three bags on the bench. How many bags are on the bench?\nAnswer: three",
+    "negative": "One bag on the bench. How many bags are on the bench?\nAnswer: one"
+  },
+  {
+    "id": "build_045",
+    "positive": "Three boxes on the floor. How many boxes are on the floor?\nAnswer: three",
+    "negative": "One box on the floor. How many boxes are on the floor?\nAnswer: one"
+  },
+  {
+    "id": "build_046",
+    "positive": "Three teddy bears on the sofa. How many teddy bears are on the sofa?\nAnswer: three",
+    "negative": "One teddy bear on the sofa. How many teddy bears are on the sofa?\nAnswer: one"
+  },
+  {
+    "id": "build_047",
+    "positive": "Three toy trucks on the rug. How many toy trucks are on the rug?\nAnswer: three",
+    "negative": "One toy truck on the rug. How many toy trucks are on the rug?\nAnswer: one"
+  },
+  {
+    "id": "build_048",
+    "positive": "Three rabbits on the grass. How many rabbits are on the grass?\nAnswer: three",
+    "negative": "One rabbit on the grass. How many rabbits are on the grass?\nAnswer: one"
+  },
+  {
+    "id": "build_049",
+    "positive": "Three horses in the field. How many horses are in the field?\nAnswer: three",
+    "negative": "One horse in the field. How many horses are in the field?\nAnswer: one"
+  },
+  {
+    "id": "build_050",
+    "positive": "Three trees beside the house. How many trees are beside the house?\nAnswer: three",
+    "negative": "One tree beside the house. How many trees are beside the house?\nAnswer: one"
+  }
+]
